@@ -1,0 +1,21 @@
+.registerFrom {
+  background-image: url("../../img/register-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 1rem;
+}
+
+.registerCenterFrom {
+  background-color: #e5f7fb98;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.loginFrom {
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+  padding-top: 1rem;
+}

@@ -1,0 +1,14 @@
+.titleBox {
+  clip-path: polygon(
+    100% 0,
+    100% 61%,
+    100% 100%,
+    78% 88%,
+    50% 100%,
+    18% 88%,
+    0 100%,
+    0 0
+  );
+  background-color: #e5f7fb;
+  height: 15rem;
+}

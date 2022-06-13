@@ -1,0 +1,29 @@
+.navLink {
+  text-decoration: none;
+  margin-right: 5rem;
+  font-size: 1.2rem;
+  color: #154784;
+}
+
+.navTitle {
+  font-family: "Permanent Marker", cursive;
+  margin-left: 2rem;
+}
+
+.navLinkActive {
+  text-decoration: none;
+  margin-right: 5rem;
+  font-size: 1.2rem;
+
+  border-bottom: 2px solid rgb(233, 26, 26);
+}
+
+.navbarActive {
+  background-color: #c4e8f0;
+  transition: all 0.5s;
+}
+
+.navbar {
+  background-color: #e5f7fb;
+  transition: all 0.5s;
+}

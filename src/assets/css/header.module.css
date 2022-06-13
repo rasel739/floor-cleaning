@@ -1,0 +1,18 @@
+.header {
+  background-color: #e5f7fb;
+  clip-path: polygon(
+    100% 99%,
+    100% 93%,
+    67% 98%,
+    50% 100%,
+    19% 96%,
+    0 94%,
+    0 0,
+    100% 0
+  );
+}
+
+.headerBtn {
+  background-color: #ecd905;
+  color: #154784;
+}

@@ -1,0 +1,21 @@
+.betterImg {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  opacity: 1;
+}
+.betterImgBack {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  opacity: 0.2;
+}
+
+.betterImgOne {
+  background-color: yellow;
+  color: #154784;
+}
+.betterImgTwo {
+  background-color: #154784;
+  color: #ffff;
+}

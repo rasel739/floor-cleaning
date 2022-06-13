@@ -1,0 +1,17 @@
+.discussMain {
+  background-color: #e5f7fb;
+}
+.discussBox {
+  background-color: #e5f7fb;
+  margin: 1rem;
+  padding: 1rem;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+  width: 13rem;
+}
+
+.discussLeftBox {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: #154784;
+}

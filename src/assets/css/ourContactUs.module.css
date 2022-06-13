@@ -1,0 +1,10 @@
+.ourContactUs {
+  background-image: url("../../img/our-contact-us.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  opacity: 0.8;
+}

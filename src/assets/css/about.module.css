@@ -1,0 +1,30 @@
+/* about counter right start*/
+
+.aboutCounterImgone {
+  width: 100%;
+}
+
+.aboutCounterImgtwo {
+  width: 100%;
+}
+
+.imgBoxOne {
+  width: 50%;
+  position: relative;
+}
+.imgBoxTwo {
+  width: 30%;
+  position: absolute;
+  top: 70%;
+  right: 10%;
+}
+
+/* about video right*/
+
+.aboutVideoRightImg {
+  width: 100%;
+}
+.aboutVideoImgBox {
+  width: 20%;
+  margin: auto;
+}

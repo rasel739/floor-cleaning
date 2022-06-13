@@ -1,0 +1,24 @@
+.sponsorImg {
+  width: 50%;
+}
+
+.sponsor {
+  background-color: #f7fbe5;
+}
+
+.sponsorTitle {
+  background-color: #9899e928;
+  color: #154784;
+  padding: 2rem 3rem 4rem 3rem;
+
+  clip-path: polygon(
+    16% 9%,
+    81% 9%,
+    100% 0,
+    100% 100%,
+    89% 70%,
+    11% 70%,
+    0 100%,
+    0 0
+  );
+}

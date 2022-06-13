@@ -1,0 +1,10 @@
+.chooseRightImgOne {
+  width: 100%;
+  height: 42rem;
+  transition: 1s ease;
+}
+.chooseRightImgTwo {
+  width: 100%;
+  height: 32rem;
+  transition: 1s ease;
+}

@@ -1,0 +1,31 @@
+.workImg {
+  width: 100%;
+  height: 22rem;
+  border-radius: 1rem;
+}
+
+.workImgTwo {
+  width: 100%;
+  border-radius: 1rem;
+  transition: 1s ease;
+  height: 23rem;
+}
+
+.workImgOne {
+  width: 100%;
+  height: 34rem;
+  transition: 1s ease;
+  border-radius: 1rem;
+}
+
+.workMain {
+  background-color: #e5f7fb;
+}
+
+.workRight {
+  background-color: #ffff;
+  padding: 1rem;
+  border-radius: 1rem;
+  height: 100%;
+  transition: 1s ease;
+}

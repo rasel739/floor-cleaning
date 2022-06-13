@@ -1,0 +1,21 @@
+.serviceContent {
+  display: flex;
+  justify-content: space-center;
+  align-items: center;
+}
+
+.homeOne {
+  background-color: rgb(205, 214, 214);
+  width: 100%;
+  padding: 1rem;
+}
+.homeTwo {
+  width: 100%;
+  padding: 1rem;
+  background-color: rgb(3, 56, 56);
+}
+.homeThree {
+  background-color: rgb(205, 214, 214);
+  width: 100%;
+  padding: 1rem;
+}

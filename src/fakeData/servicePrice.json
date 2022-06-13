@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Home Basic",
+    "price": 50,
+    "serviceDetailsImgOne": "https://i.ibb.co/87qhvLZ/searvic-details-img-1.jpg",
+    "serviceDetailsImgTwo": "https://i.ibb.co/5FrtD1q/searvic-details-img-2.jpg",
+    "serviceDetailsImgThree": "https://i.ibb.co/d6YHFz0/searvic-details-img-3.jpg",
+    "serviceDetailsImgFour": "https://i.ibb.co/yPb1ffT/searvic-details-img-4.jpg",
+    "homeIcon": "https://i.ibb.co/Wtj30Ct/Icons-1.png",
+    "homeStyle": null,
+    "serviceOne": {
+      "subTitle": "Bathroom Cleaning",
+      "color": "green",
+      "icon": null
+    },
+    "serviceTwo": {
+      " subTitle": "Vacusum Cleaning",
+      "color": "green",
+      "icon": null
+    },
+    "serviceThree": {
+      "  subTitle": "Floor Mooping",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceFour": {
+      "  subTitle ": "Trash Handling",
+      "  color": "green",
+      "  icon ": " "
+    },
+    "serviceFive": {
+      "  subTitle": "Windows Cleaning",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceSix": {
+      "  subTitle": "Polish Wood Surfaces",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceSeven": {
+      "  subTitle": "Laundry",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceEight": {
+      "  subTitle": "Clean Oven Interior",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceNine": {
+      "  subTitle": "Clean Fridage Interior",
+      "  color": "red",
+      "  icon": null
+    }
+  },
+  {
+    "title": "Home Premium",
+    "price": 100,
+    "serviceDetailsImgOne": "https://i.ibb.co/87qhvLZ/searvic-details-img-1.jpg",
+    "serviceDetailsImgTwo": "https://i.ibb.co/5FrtD1q/searvic-details-img-2.jpg",
+    "serviceDetailsImgThree": "https://i.ibb.co/d6YHFz0/searvic-details-img-3.jpg",
+    "serviceDetailsImgFour": "https://i.ibb.co/yPb1ffT/searvic-details-img-4.jpg",
+    "homeIcon": "https://i.ibb.co/VNYy6Fb/Icons-2.png",
+    "homeStyle": null,
+    "serviceOne": {
+      "  subTitle": "Bathroom Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceTwo": {
+      "  subTitle": "Vacusum Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceThree": {
+      "  subTitle": "Floor Mooping",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceFour": {
+      "  subTitle": "Trash Handling",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceFive": {
+      "  subTitle": "Windows Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceSix": {
+      "  subTitle": "Polish Wood Surfaces",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceSeven": {
+      "  subTitle": "Laundry",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceEight": {
+      "  subTitle": "Clean Oven Interior",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceNine": {
+      "  subTitle": "Clean Fridage Interior",
+      "  color": "green",
+      "  icon": null
+    }
+  },
+  {
+    "title": "Home Standard",
+    "price": 80,
+    "serviceDetailsImgOne": "https://i.ibb.co/87qhvLZ/searvic-details-img-1.jpg",
+    "serviceDetailsImgTwo": "https://i.ibb.co/5FrtD1q/searvic-details-img-2.jpg",
+    "serviceDetailsImgThree": "https://i.ibb.co/d6YHFz0/searvic-details-img-3.jpg",
+    "serviceDetailsImgFour": "https://i.ibb.co/yPb1ffT/searvic-details-img-4.jpg",
+    "homeIcon": "https://i.ibb.co/wW7yWnk/Icons-3.png",
+    "homeStyle": null,
+    "serviceOne": {
+      "  subTitle": "Bathroom Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceTwo": {
+      "  subTitle": "Vacusum Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceThree": {
+      "  subTitle": "Floor Mooping",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceFour": {
+      "  subTitle": "Trash Handling",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceFive": {
+      "  subTitle": "Windows Cleaning",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceSix": {
+      "  subTitle": "Polish Wood Surfaces",
+      "  color": "green",
+      "  icon": null
+    },
+    "serviceSeven": {
+      "  subTitle": "Laundry",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceEight": {
+      "  subTitle": "Clean Oven Interior",
+      "  color": "red",
+      "  icon": null
+    },
+    "serviceNine": {
+      "  subTitle": "Clean Fridage Interior",
+      "  color": "red",
+      "  icon": null
+    }
+  }
+]
